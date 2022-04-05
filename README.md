@@ -1,6 +1,6 @@
 # DataAnalyticalResearchTeam-DART-
 
-**Exploratory Data Analysis on Population Growth Rate of Philippines**
+**Exploratory Data Analysis of the Population Growth Rate in the Philippines**
 
 **INTRODUCTION**
 
