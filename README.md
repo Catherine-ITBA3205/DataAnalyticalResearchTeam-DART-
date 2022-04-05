@@ -1,6 +1,6 @@
 # DataAnalyticalResearchTeam-DART-
 
-**Exploratory Data Analysis on Population Growth Rate of CALABARZON**
+**Exploratory Data Analysis on Population Growth Rate of Philippines**
 
 **INTRODUCTION**
 
