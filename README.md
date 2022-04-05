@@ -16,5 +16,6 @@ The objective of this analysis is to conduct an Exploratory Data Analysis on the
 
 **METHOD**
 
+The researchers will be conducting an Exploratory Data Analysis on the data sets that are gathered in this study. This approach will be used in analyzing the data sets to summarize the cause and effect of the population growth in the CALABARZON. The graphical and statistical representations of the population growth in CALABARZON that will be made by this method of analysis will help the people in understanding the effects of overpopulation. The Exploratory Data Analysis will help the researchers in identifying the possible solutions, ideas and especially policies to prevent and help to control the population growth in CALABRZON.
 
 **EXPECTED OUTPUT**
