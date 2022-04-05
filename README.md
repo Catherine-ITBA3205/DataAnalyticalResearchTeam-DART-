@@ -13,6 +13,9 @@ The objective of this analysis is to conduct an Exploratory Data Analysis on the
 
 **SIGNIFICANCE OF THE PROPOSED PROJECT**
 
+The findings of this study will rebound to the benefit of society considering that this study aims to find solutions for the Population Growth Rate of CALABARZON wherein population growth is one of the most common problems in our country. This may bring for many Filipino for unemployment that cause of poverty, lack of food supply that cause of malnutrition, big number of out of school youth in the community and arousing of many crimes in the community.
+
+This study will provide the Filipino people especially to the people in CALABARZON to become aware on the effects of population growth rate and on what are they going to do to stop this population growth rate in their community.
 
 **METHOD**
 
