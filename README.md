@@ -16,11 +16,7 @@ The objective of this analysis is to conduct an Exploratory Data Analysis on the
 
 The findings of this study will have a rebound effect to the benefit of society considering that this study aims to find solutions to the population growth rate in the Philippines, wherein population growth is one of the most common problems in our country. Many Filipinos may face the following consequences as a result of this: unemployment, which causes poverty, a lack of food supply, which causes malnutrition, a large number of out-of-school youth in the community, and the arousal of many crimes in the community.
 
-<<<<<<< HEAD
 This study will provide the Filipino people especially to the people in CALABARZON to become aware on the effects of population growth rate and on what are they going to do to stop this population growth rate in their community. By researching why and how population increases, researchers will be able to make more accurate predictions about future population levels and growth rates. Researchers can learn more about what causes changes in population sizes and growth rates by studying population growth. They can also learn more about how individuals communicate with each other and their environments by studying population growth. This is particularly important when contemplating the potential effects of climate change and other environmental changes.
-=======
-This study will provide the Filipino people to become aware on the effects of population growth rate and on what are they going to do to stop this population growth rate in their community.
->>>>>>> 39f9cf9b8801b3e8047ac987066d5e8dc9e324ad
 
 **METHOD**
 
