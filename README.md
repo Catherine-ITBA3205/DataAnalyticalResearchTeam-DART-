@@ -20,7 +20,7 @@ This study will provide the Filipino people, especially to the people in the Phi
 
 **METHOD**
 
-The researchers will be conducting an Exploratory Data Analysis on the data sets that are gathered in this study. This approach will be used in analyzing the data sets to summarize the cause and effect of the population growth in the CALABRZON. The graphical and statistical representations of the population growth in CALABRZON that will be made by this method of analysis will help the people in understanding the effects of overpopulation. The Exploratory Data Analysis will help the researchers in identifying the possible solutions, ideas and especially policies to prevent and help to control the population growth in CALABRZON.
+The researchers will be conducting an Exploratory Data Analysis on the data sets that are gathered in this study. This approach will be used in analyzing the data sets to summarize the cause and effect of the population growth in the Philippines. The graphical and statistical representations of the population growth in the Philippines that will be made by this method of analysis will help the people in understanding the effects of overpopulation. The Exploratory Data Analysis will help the researchers in identifying the possible solutions, ideas and especially policies to prevent and help to control the population growth in the Philippines.
 
 **EXPECTED OUTPUT**
 
