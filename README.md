@@ -28,7 +28,7 @@ This study will cover the issue of the population growth rate in the Philippines
 
 **METHOD**
 
-The researchers will be conducting an Exploratory Data Analysis on the data sets that are gathered in this study. This approach will be used in analyzing the data sets to summarize the cause and effect of the population growth in the Philippines. The graphical and statistical representations of the population growth in the Philippines that will be made by this method of analysis will help the people in understanding the effects of overpopulation. The Exploratory Data Analysis will help the researchers in identifying the possible solutions, ideas and especially policies to prevent and help to control the population growth in the Philippines.
+To analyze the population growth rate in the Philippines, the researchers will be using datasets provided by the Philippine Statistics Authority. This study will be using the datasets that include poverty rate, unemployment rate, education rate, and health care rate in the Philippines for the reason that this is one of the outcomes of population growth in the Philippines. The researchers will be using data visualization techniques to study and investigate data sets and highlight their primary characteristics in an exploratory data analysis. The graphical and statistical representations of the population growth in the Philippines that will be made by this method of analysis will help the people in understanding the effects of overpopulation. The Exploratory Data Analysis will help the researchers in identifying the possible solutions, ideas and especially policies to prevent and help to control the population growth in the Philippines.
 
 **EXPECTED OUTPUT**
 
