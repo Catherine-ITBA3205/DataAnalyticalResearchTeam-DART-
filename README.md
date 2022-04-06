@@ -15,11 +15,11 @@ The primary issue that this project would tackle is the increasing population ra
 **SIGNIFICANCE OF THE PROPOSED PROJECT**
 
 This study will cover the issue of the population growth rate in the Philippines, This will benefits the following:
-•	To the Government. The result of the study will help the government for the improvement of their policies about the population growth rate in the Philippines. This study will benefit them by providing analysis and insights about population growth rate in the Philippines. With this, they will be conscious of what will be the reason for the continuous population growth in the Philippines and have an idea of what they can do for the betterment of our country.
+**•	To the Government.** The result of the study will help the government for the improvement of their policies about the population growth rate in the Philippines. This study will benefit them by providing analysis and insights about population growth rate in the Philippines. With this, they will be conscious of what will be the reason for the continuous population growth in the Philippines and have an idea of what they can do for the betterment of our country.
 
-•	To the citizens. This will spread awareness to them on recognizing the population growth rate as the root cause of many problems our country faces. This study will be helpful to the citizens because it will allow them to gain knowledge on the various solutions that they may use to control the population growth rate. By analyzing datasets and summarizing main characteristics, the researchers will be able to make more accurate analysis about population levels and growth rates.
+**•	To the citizens.** This will spread awareness to them on recognizing the population growth rate as the root cause of many problems our country faces. This study will be helpful to the citizens because it will allow them to gain knowledge on the various solutions that they may use to control the population growth rate. By analyzing datasets and summarizing main characteristics, the researchers will be able to make more accurate analysis about population levels and growth rates.
 
-•	To the future researchers. The result of this study can be used for future discussions and serve as a useful reference on the population growth rate in the Philippines.
+**•	To the future researchers.** The result of this study can be used for future discussions and serve as a useful reference on the population growth rate in the Philippines.
 
 
 
