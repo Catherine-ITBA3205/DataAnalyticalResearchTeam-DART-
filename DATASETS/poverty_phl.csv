@@ -1,0 +1,131 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Philippines,PHL,2018,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,42.9000015258789
+Philippines,PHL,2016,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,43.5
+Philippines,PHL,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,38.2999992370605
+Philippines,PHL,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,40.9000015258789
+Philippines,PHL,2005,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,43.7000007629395
+Philippines,PHL,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,47.2000007629395
+Philippines,PHL,1995,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,50.7999992370605
+Philippines,PHL,1990,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,54.2999992370605
+Philippines,PHL,2018,Income share held by second 20%,SI.DST.02ND.20,9.9
+Philippines,PHL,2015,Income share held by second 20%,SI.DST.02ND.20,9.2
+Philippines,PHL,2012,Income share held by second 20%,SI.DST.02ND.20,8.7
+Philippines,PHL,2009,Income share held by second 20%,SI.DST.02ND.20,8.8
+Philippines,PHL,2006,Income share held by second 20%,SI.DST.02ND.20,8.5
+Philippines,PHL,2003,Income share held by second 20%,SI.DST.02ND.20,8.8
+Philippines,PHL,2000,Income share held by second 20%,SI.DST.02ND.20,8.5
+Philippines,PHL,2018,Income share held by third 20%,SI.DST.03RD.20,14
+Philippines,PHL,2015,Income share held by third 20%,SI.DST.03RD.20,13.4
+Philippines,PHL,2012,Income share held by third 20%,SI.DST.03RD.20,13
+Philippines,PHL,2009,Income share held by third 20%,SI.DST.03RD.20,13
+Philippines,PHL,2006,Income share held by third 20%,SI.DST.03RD.20,12.8
+Philippines,PHL,2003,Income share held by third 20%,SI.DST.03RD.20,13.1
+Philippines,PHL,2000,Income share held by third 20%,SI.DST.03RD.20,12.7
+Philippines,PHL,2018,Income share held by fourth 20%,SI.DST.04TH.20,20.7
+Philippines,PHL,2015,Income share held by fourth 20%,SI.DST.04TH.20,20.7
+Philippines,PHL,2012,Income share held by fourth 20%,SI.DST.04TH.20,20.5
+Philippines,PHL,2009,Income share held by fourth 20%,SI.DST.04TH.20,20.4
+Philippines,PHL,2006,Income share held by fourth 20%,SI.DST.04TH.20,20.6
+Philippines,PHL,2003,Income share held by fourth 20%,SI.DST.04TH.20,20.4
+Philippines,PHL,2000,Income share held by fourth 20%,SI.DST.04TH.20,20
+Philippines,PHL,2018,Income share held by highest 20%,SI.DST.05TH.20,49.2
+Philippines,PHL,2015,Income share held by highest 20%,SI.DST.05TH.20,51
+Philippines,PHL,2012,Income share held by highest 20%,SI.DST.05TH.20,52.7
+Philippines,PHL,2009,Income share held by highest 20%,SI.DST.05TH.20,52.5
+Philippines,PHL,2006,Income share held by highest 20%,SI.DST.05TH.20,53.1
+Philippines,PHL,2003,Income share held by highest 20%,SI.DST.05TH.20,52.6
+Philippines,PHL,2000,Income share held by highest 20%,SI.DST.05TH.20,53.7
+Philippines,PHL,2018,Income share held by highest 10%,SI.DST.10TH.10,33.5
+Philippines,PHL,2015,Income share held by highest 10%,SI.DST.10TH.10,34.9
+Philippines,PHL,2012,Income share held by highest 10%,SI.DST.10TH.10,36.3
+Philippines,PHL,2009,Income share held by highest 10%,SI.DST.10TH.10,36.3
+Philippines,PHL,2006,Income share held by highest 10%,SI.DST.10TH.10,36.6
+Philippines,PHL,2003,Income share held by highest 10%,SI.DST.10TH.10,36.6
+Philippines,PHL,2000,Income share held by highest 10%,SI.DST.10TH.10,37.7
+Philippines,PHL,2018,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,13
+Philippines,PHL,2015,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,14.7
+Philippines,PHL,2012,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,16.1
+Philippines,PHL,2009,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,15.6
+Philippines,PHL,2006,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,17.1
+Philippines,PHL,2003,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,16.5
+Philippines,PHL,2000,Proportion of people living below 50 percent of median income (%),SI.DST.50MD,16.5
+Philippines,PHL,2018,Income share held by lowest 10%,SI.DST.FRST.10,2.5
+Philippines,PHL,2015,Income share held by lowest 10%,SI.DST.FRST.10,2.3
+Philippines,PHL,2012,Income share held by lowest 10%,SI.DST.FRST.10,2.1
+Philippines,PHL,2009,Income share held by lowest 10%,SI.DST.FRST.10,2.2
+Philippines,PHL,2006,Income share held by lowest 10%,SI.DST.FRST.10,2
+Philippines,PHL,2003,Income share held by lowest 10%,SI.DST.FRST.10,2.1
+Philippines,PHL,2000,Income share held by lowest 10%,SI.DST.FRST.10,2.1
+Philippines,PHL,2018,Income share held by lowest 20%,SI.DST.FRST.20,6.2
+Philippines,PHL,2015,Income share held by lowest 20%,SI.DST.FRST.20,5.6
+Philippines,PHL,2012,Income share held by lowest 20%,SI.DST.FRST.20,5.2
+Philippines,PHL,2009,Income share held by lowest 20%,SI.DST.FRST.20,5.3
+Philippines,PHL,2006,Income share held by lowest 20%,SI.DST.FRST.20,5
+Philippines,PHL,2003,Income share held by lowest 20%,SI.DST.FRST.20,5.2
+Philippines,PHL,2000,Income share held by lowest 20%,SI.DST.FRST.20,5.1
+Philippines,PHL,2018,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,2.7
+Philippines,PHL,2015,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,6.1
+Philippines,PHL,2012,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,10.4
+Philippines,PHL,2009,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,10.7
+Philippines,PHL,2006,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,14.4
+Philippines,PHL,2003,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,13
+Philippines,PHL,2000,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,13.7
+Philippines,PHL,2018,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,0.5
+Philippines,PHL,2015,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,1.2
+Philippines,PHL,2012,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,2.3
+Philippines,PHL,2009,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,2.3
+Philippines,PHL,2006,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,3.4
+Philippines,PHL,2003,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,3.1
+Philippines,PHL,2000,Poverty gap at $1.90 a day (2011 PPP) (%),SI.POV.GAPS,3.1
+Philippines,PHL,2018,Gini index,SI.POV.GINI,42.3
+Philippines,PHL,2015,Gini index,SI.POV.GINI,44.6
+Philippines,PHL,2012,Gini index,SI.POV.GINI,46.5
+Philippines,PHL,2009,Gini index,SI.POV.GINI,46.3
+Philippines,PHL,2006,Gini index,SI.POV.GINI,47.2
+Philippines,PHL,2003,Gini index,SI.POV.GINI,46.6
+Philippines,PHL,2000,Gini index,SI.POV.GINI,47.7
+Philippines,PHL,2018,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,17
+Philippines,PHL,2015,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,25.7
+Philippines,PHL,2012,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,33.3
+Philippines,PHL,2009,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,34
+Philippines,PHL,2006,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,38.2
+Philippines,PHL,2003,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,36
+Philippines,PHL,2000,Poverty headcount ratio at $3.20 a day (2011 PPP) (% of population),SI.POV.LMIC,37.9
+Philippines,PHL,2018,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,3.9
+Philippines,PHL,2015,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,7
+Philippines,PHL,2012,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,10.2
+Philippines,PHL,2009,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,10.5
+Philippines,PHL,2006,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,12.8
+Philippines,PHL,2003,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,11.9
+Philippines,PHL,2000,Poverty gap at $3.20 a day (2011 PPP) (%),SI.POV.LMIC.GP,12.4
+Philippines,PHL,2017,"Multidimensional poverty headcount ratio, household (% of total households)",SI.POV.MDIM.HH,17.3
+Philippines,PHL,2016,"Multidimensional poverty headcount ratio, household (% of total households)",SI.POV.MDIM.HH,23.9
+Philippines,PHL,2017,Multidimensional poverty index (scale 0-1),SI.POV.MDIM.XQ,0.071
+Philippines,PHL,2016,Multidimensional poverty index (scale 0-1),SI.POV.MDIM.XQ,0.104
+Philippines,PHL,2018,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,16.7
+Philippines,PHL,2015,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,23.5
+Philippines,PHL,2012,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,25.2
+Philippines,PHL,2009,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,26.3
+Philippines,PHL,2006,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,26.6
+Philippines,PHL,2003,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,24.9
+Philippines,PHL,2018,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,46.9
+Philippines,PHL,2015,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,54.6
+Philippines,PHL,2012,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,59.9
+Philippines,PHL,2009,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,61.1
+Philippines,PHL,2006,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,63.4
+Philippines,PHL,2003,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,62.9
+Philippines,PHL,2000,Poverty headcount ratio at $5.50 a day (2011 PPP) (% of population),SI.POV.UMIC,64
+Philippines,PHL,2018,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,16
+Philippines,PHL,2015,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,21.3
+Philippines,PHL,2012,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,26
+Philippines,PHL,2009,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,26.6
+Philippines,PHL,2006,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,29.3
+Philippines,PHL,2003,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,28.3
+Philippines,PHL,2000,Poverty gap at $5.50 a day (2011 PPP) (%),SI.POV.UMIC.GP,29.2
+Philippines,PHL,2018,"Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)",SI.SPR.PC40,3.36
+Philippines,PHL,2015,"Survey mean consumption or income per capita, bottom 40% of population (2011 PPP $ per day)",SI.SPR.PC40,2.81
+Philippines,PHL,2018,"Annualized average growth rate in per capita real survey mean consumption or income, bottom 40% of population (%)",SI.SPR.PC40.ZG,6.07
+Philippines,PHL,2018,"Survey mean consumption or income per capita, total population (2011 PPP $ per day)",SI.SPR.PCAP,8.36
+Philippines,PHL,2015,"Survey mean consumption or income per capita, total population (2011 PPP $ per day)",SI.SPR.PCAP,7.57
+Philippines,PHL,2018,"Annualized average growth rate in per capita real survey mean consumption or income, total population (%)",SI.SPR.PCAP.ZG,3.35
