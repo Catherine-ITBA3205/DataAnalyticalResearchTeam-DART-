@@ -8,6 +8,23 @@ The Philippines as a third world country has been facing many different challeng
 
 The objective of this analysis is to conduct an Exploratory Data Analysis on the Population Growth Rate in the Philippines and provide policies that will help to decrease the negative effects. The Exploratory Data Analysis (EDA) is a way of evaluating datasets in order to summarize their essential properties, which is frequently done using visual approaches. Before beginning the modeling work, EDA is used to see what the data can tell us. Rapid population growth and rampant urbanization are two of the most significant demographic concerns in the Philippines, where the average number of children born to a woman is close to four and a large 37 percent of the population is under the age of 15. These concerns are important roadblocks in the Philippines' efforts to alleviate poverty and enhance living standards.
 
+**Sustainable Development Goals (SDGs)**
+
+This project intends to achieve the SDGs of No Poverty and Good Health and Wellbeing.
+
+The following are the SDGs:
+
+**Goal 1: No Poverty** – this SDGs strives to eradicate poverty in all forms around the world. Its goals involve guaranteeing that everyone, especially the poorest and most vulnerable members of society, has equitable access to economic resources, basic services, property and land control, natural resources, and innovative technology.
+
+
+![image](https://user-images.githubusercontent.com/102594912/170211296-a871b8bc-35f7-4038-82c2-492f4ebdccd6.png)
+
+
+**Goal 3: Good Health and Wellbeing** - is to secure everyone's health and well-being, including a bold commitment to eradicate AIDS, TB, malaria, and other infectious illnesses outbreaks by 2030. It also aspires to attain universal health care and ensure that everyone has access to effective medications and vaccines.
+
+![image](https://user-images.githubusercontent.com/102594912/170212110-18e18318-c155-467c-97c2-d10b4ca7e3f7.png)
+
+
 **PROBLEM STATEMENT**
 
 The primary issue that this project would tackle is the increasing population rate in the Philippines and how it is affecting the daily lives of the Filipino people. Apart from Republic Act 10345: Responsible Parenthood and Reproductive Health Act of 2012, which states to eliminate discriminatory practices, laws, and policies that infringe on a person's exercise of reproductive health rights, the Philippine government still lacks a concrete plan on how to control the rapidly increasing population in the Philippines. Although there are Laws that are implemented to spread awareness to the right of the people regarding their Reproductive Health, these laws are still not enough or it is not properly and strongly implemented as it is still visually seen that the over growing population of the Philippines is still not under control unlike their neighboring countries that strongly implement laws such as a One-Child Policy Law. Because of this, this project seeks to provide policies that should be implemented in order to decrease or slow down the over growing population of the Philippines and lessen its negative impact.
