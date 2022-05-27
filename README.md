@@ -20,10 +20,6 @@ The following are the SDGs:
 ![image](https://user-images.githubusercontent.com/102594912/170211296-a871b8bc-35f7-4038-82c2-492f4ebdccd6.png)
 
 
-**Goal 3: Good Health and Wellbeing** - is to secure everyone's health and well-being, including a bold commitment to eradicate AIDS, TB, malaria, and other infectious illnesses outbreaks by 2030. It also aspires to attain universal health care and ensure that everyone has access to effective medications and vaccines.
-
-![image](https://user-images.githubusercontent.com/102594912/170212110-18e18318-c155-467c-97c2-d10b4ca7e3f7.png)
-
 
 **PROBLEM STATEMENT**
 
