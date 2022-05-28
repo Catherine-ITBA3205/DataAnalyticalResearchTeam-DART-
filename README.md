@@ -25,7 +25,7 @@ The primary issue that this project would tackle is the increasing population ra
 
 **SIGNIFICANCE OF THE PROPOSED PROJECT**
 
-This study will cover the issue of the population growth rate in the Philippines.
+This study will cover the issue of the population growth rate in the Philippines, and it's relationship with the growing poverty rate in the country. According to The World Bank, Poverty is hunger. Poverty is lack of shelter. Poverty is being sick and not being able to see a doctor. Poverty is not being able to go to school and not knowing how to read. Poverty is not having a job, is fear of the future, living one day at a time. Poverty is losing a child to illness brought about by unclean water, and Poverty is powerlessness. With the data gathered the findings of this study will show you how over population results to poverty.
 
  This will benefits the following:
 
