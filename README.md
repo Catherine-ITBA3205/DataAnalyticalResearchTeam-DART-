@@ -1,6 +1,7 @@
-# DataAnalyticalResearchTeam-DART-
+![284400798_836739530622266_78968566801943548_n](https://user-images.githubusercontent.com/102346894/170873468-b541718d-2611-4286-a5cf-7febd532e366.png)
 
-# **Exploratory Data Analysis of the Population Growth Rate in the Philippines**
+
+<h1 align="center"> Exploratory Data Analysis of the Population Growth Rate in the Philippines</h1>
 
 **INTRODUCTION**
 
