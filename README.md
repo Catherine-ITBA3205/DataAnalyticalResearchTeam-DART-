@@ -11,7 +11,7 @@ The objective of this analysis is to conduct an Exploratory Data Analysis on the
 
 **Sustainable Development Goals (SDGs)**
 
-This project intends to achieve the SDGs of No Poverty.
+This project intends to achieve the United Nation's agenda entitled ***Sustainable Development Goals*** specifically it seeks to achieve the first goal which is ***No Poverty***
 
 **Goal 1: No Poverty** – this SDGs strives to eradicate poverty in all forms around the world. Its goals involve guaranteeing that everyone, especially the poorest and most vulnerable members of society, has equitable access to economic resources, basic services, property and land control, natural resources, and innovative technology.
 
