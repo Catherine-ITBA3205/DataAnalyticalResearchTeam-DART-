@@ -11,12 +11,13 @@ The objective of this analysis is to conduct an Exploratory Data Analysis on the
 
 **Sustainable Development Goals (SDGs)**
 
-This project intends to achieve the United Nation's agenda entitled ***Sustainable Development Goals*** specifically it seeks to achieve the first goal which is ***No Poverty***
+This project intends to achieve the United Nation's agenda entitled ***Sustainable Development Goals*** specifically it seeks to achieve the first goal which is ***Sustainable cities and communities***
 
-**Goal 1: No Poverty** – this SDGs strives to eradicate poverty in all forms around the world. Its goals involve guaranteeing that everyone, especially the poorest and most vulnerable members of society, has equitable access to economic resources, basic services, property and land control, natural resources, and innovative technology.
+**Goal 11: Sustainable cities and communities** – Rapid urbanization, owing to rising populations and migration, has resulted in a growth in megacities, particularly in developing countries, and slums are becoming a more prominent component of urban life. Attempts to build and develop cities and other human habitation so that everyone has access to essential services, electricity, housing, transportation, and green public areas while reducing resource use and environmental effect.
 
 
-![image](https://user-images.githubusercontent.com/102594912/170211296-a871b8bc-35f7-4038-82c2-492f4ebdccd6.png)
+![image](https://user-images.githubusercontent.com/102594912/171022750-97ac3e6c-a461-4bcc-aa60-d70718d1eae4.png)
+
 
 
 
