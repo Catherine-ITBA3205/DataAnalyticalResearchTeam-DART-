@@ -1,7 +1,4 @@
-![284400798_836739530622266_78968566801943548_n](https://user-images.githubusercontent.com/102346894/170873468-b541718d-2611-4286-a5cf-7febd532e366.png)
-
-
-<h1 align="center"> Exploratory Data Analysis of the Population Growth Rate in the Philippines</h1>
+![284120378_1102728357253491_2428201508920800711_n](https://user-images.githubusercontent.com/102346894/171042465-56598d1f-e7d7-4b19-a8c2-6e19f28da16a.png)
 
 **INTRODUCTION**
 
