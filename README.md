@@ -26,11 +26,11 @@ This project intends to achieve the United Nation's agenda entitled ***Sustainab
 
 > Although there are Laws that are implemented to spread awareness to the right of the people regarding their Reproductive Health, these laws are still not enough or it is not properly and strongly implemented as it is still visually seen that the over growing population of the Philippines is still not under control unlike their neighboring countries.
 
-> This project seeks to provide policies that should be implemented in order to decrease or slow down the over growing population of the Philippines and lessen its number one negative impact which is poverty. The researchers believe that if poverty will be lessen and eliminated, everything else under the United Nations SDG plan will follow. 
+> This project seeks to provide policies that should be implemented in order to decrease or slow down the over growing population of the Philippines and lessen its number one negative impact which is the rapid urbanization. The researchers believe that if poverty will be lessen and eliminated, everything else under the United Nations SDG plan will follow. 
 
 **SIGNIFICANCE OF THE PROPOSED PROJECT**
 
-This study will cover the issue of the population growth rate in the Philippines, and it's relationship with the growing poverty rate in the country. According to The World Bank, Poverty is hunger. Poverty is lack of shelter. Poverty is being sick and not being able to see a doctor. Poverty is not being able to go to school and not knowing how to read. Poverty is not having a job, is fear of the future, living one day at a time. Poverty is losing a child to illness brought about by unclean water, and Poverty is powerlessness. With the data gathered the findings of this study will show you how over population results to poverty.
+This study will cover the issue of the population growth rate in the Philippines, and it's relationship with the growing rapid urbanization in the country. 
 
  This will benefits the following:
 
@@ -44,7 +44,7 @@ This study will cover the issue of the population growth rate in the Philippines
 
 **METHOD**
 
-To analyze the population growth rate in the Philippines, the researchers will be using datasets provided by the Philippine Statistics Authority. This study will be using the datasets that include poverty rate in the Philippines for the reason that this is one of the outcomes of population growth in the Philippines. The researchers will be using data visualization techniques to study and investigate data sets and highlight their primary characteristics in an exploratory data analysis. The graphical and statistical representations of the population growth in the Philippines that will be made by this method of analysis will help the people in understanding the effects of overpopulation. The Exploratory Data Analysis will help the researchers in identifying the possible solutions, ideas and especially policies to prevent and help to control the population growth in the Philippines.
+To analyze the population growth rate in the Philippines, the researchers will be using datasets provided by the Philippine Statistics Authority. This study will be using the datasets that include urban population rate and average household size in the Philippines for the reason that this is one of the outcomes of population growth in the Philippines. The researchers will be using data visualization techniques to study and investigate data sets and highlight their primary characteristics in an exploratory data analysis. The graphical and statistical representations of the population growth in the Philippines that will be made by this method of analysis will help the people in understanding the effects of overpopulation. The Exploratory Data Analysis will help the researchers in identifying the possible solutions, ideas and especially policies to prevent and help to control the population growth in the Philippines.
 
 **EXPECTED OUTPUT**
 
