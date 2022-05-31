@@ -22,11 +22,9 @@ This project intends to achieve the United Nation's agenda entitled ***Sustainab
 
 **PROBLEM STATEMENT**
 
-> The primary issue that this project would tackle is the increasing population rate in the Philippines and how it is affecting the daily lives of the Filipino people. Apart from Republic Act 10345: Responsible Parenthood and Reproductive Health Act of 2012, which states to eliminate discriminatory practices, laws, and policies that infringe on a person's exercise of reproductive health rights, the Philippine government still lacks a concrete plan on how to control the rapidly increasing population in the Philippines. 
+> The primary issue that this project would tackle is the yearly population growth rate in the Philippines and how it is affecting the rapid urbanization in the country.
 
-> Although there are Laws that are implemented to spread awareness to the right of the people regarding their Reproductive Health, these laws are still not enough or it is not properly and strongly implemented as it is still visually seen that the over growing population of the Philippines is still not under control unlike their neighboring countries.
-
-> This project seeks to provide policies that should be implemented in order to decrease or slow down the over growing population of the Philippines and lessen its number one negative impact which is the rapid urbanization. The researchers believe that if rapid urbanization will be lessened and eliminated, everything else under the United Nations SDG plan will follow. 
+> This project seeks to provide policies that should be implemented in order to decrease or slow down the growing population of the Philippines and lessen the chance of rapid urbanization
 
 **SIGNIFICANCE OF THE PROPOSED PROJECT**
 
