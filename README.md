@@ -29,7 +29,7 @@ This project intends to achieve the United Nation's agenda entitled Sustainable 
 
 > The primary issue that this project would tackle is the zero hunger rate in the Philippines and how it is affecting the population in the country.
 
-> This project seeks to provide policies that should be implemented in order to decrease or slow down the growing population of the Philippines and lessen the chance of rapid urbanization
+> > This project seeks to provide policies that should be implemented in order to decrease or slow down the growing population of the Philippines and help lessen and decrease the rate of Filipino families that suffers from hunger.
 
 **SIGNIFICANCE OF THE PROPOSED PROJECT**
 
