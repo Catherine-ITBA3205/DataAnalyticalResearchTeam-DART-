@@ -52,3 +52,20 @@ To analyze the population growth rate in the Philippines, the researchers will b
 **EXPECTED OUTPUT**
 
 The goal of this project is to generate fact-based information that will be used to give awareness on the effects of the population growth rate towards the people in the community. Whereas the people living in Philippines would be able to take steps about the growing population rate. This project would give them information about the effects that comes along the growth rate. Also, this project would help convey to the people about the policies on how to decrease the growth rate such as programs that would help reduce the effects on the community and the people as well.
+
+
+
+**PRESENTATION**
+
+**LIVE PRESENTATION**
+
+DATE : May 31, 2022
+
+
+
+
+**FINAL PRESENTTAION**
+
+**SUBMISSION DATE** : June 07, 2022
+
+
