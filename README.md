@@ -55,15 +55,17 @@ The goal of this project is to generate fact-based information that will be used
 
 
 
-**VIDEO RECORD LINK**
+**PRESENTATION**
 
-https://youtu.be/clypOAdvFlQ
+**LIVE PRESENTATION**
 
+**DATE** : May 31, 2022
 
-
-
-
-
+**LINK** : https://youtu.be/V3635A-1IN4
 
 
+**FINAL PRESENTATION**
 
+**SUBMISSION DATE** : June 07, 2022
+
+**LINK** : https://youtu.be/clypOAdvFlQ
